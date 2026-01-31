@@ -1,0 +1,9 @@
+body {
+  background: #0b0b0b;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.9;
+}
